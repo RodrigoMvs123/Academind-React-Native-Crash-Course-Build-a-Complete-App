@@ -2,6 +2,7 @@
 
 https://www.youtube.com/watch?v=VozPNrt-LfE
 
+https://raw.githubusercontent.com/RodrigoMvs123/Academind-React-Native-Crash-Course-Build-a-Complete-App/main/README.md
 
 React Native Crash Course | Build a Complete App
 
