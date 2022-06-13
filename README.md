@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=VozPNrt-LfE
 
 https://raw.githubusercontent.com/RodrigoMvs123/Academind-React-Native-Crash-Course-Build-a-Complete-App/main/README.md
 
+https://github.com/RodrigoMvs123/Academind-React-Native-Crash-Course-Build-a-Complete-App/blame/main/README.md
+
 React Native Crash Course | Build a Complete App
 
 React Native Crash Course | Build a Complete App
