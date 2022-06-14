@@ -150,7 +150,7 @@ Cross Axis / Main Axis
 
 ScrollView · React Native
 
-  #
+  # app.js
 
 import { useState } from 'react'; 
 import { 
@@ -247,7 +247,7 @@ const style = StyleSheet.create ({
 }
 
 
-#
+# GoalInput.js
 
 
 import { useState } from 'react';
@@ -336,7 +336,7 @@ marginHorizontal: 8
 }
 });
 
-#
+# GoalItem.js 
 
 import {StyleSheet, View, Text, Pressable } from 'react-native';
 
